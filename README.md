@@ -8,4 +8,4 @@ Neste lab aprendemos os itens abaixo:
 * Alterar idioma
 * Econtrar serviços por categorias
 * Serviços em versão prévia
-*  
+  
